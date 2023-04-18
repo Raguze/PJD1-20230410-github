@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
 
-     public int vida;
+    public int vida;
 
     public float velocidade;
 
@@ -22,5 +22,10 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         
+    }
+
+    void Mover ()
+    {
+
     }
 }
